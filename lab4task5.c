@@ -1,4 +1,4 @@
-#include <stdio.stdio.h>
+#include <stdio.h>
 
 int main() {
     float orderAmount;
